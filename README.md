@@ -1,2 +1,1 @@
-# celery-django
-celery-django
+Celery Beat Docker Image
